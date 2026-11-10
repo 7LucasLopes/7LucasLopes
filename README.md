@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá! Eu sou Lucas Lopes 👋
 
-<!--
-**7LucasLopes/7LucasLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação no UNIPAM.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, especialmente nas áreas de backend e integração de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou desenvolvendo meus conhecimentos em programação e construindo projetos práticos para aprimorar minha capacidade de resolver problemas.
+
+## 🚀 Tecnologias e conhecimentos
+
+- **Frontend:** HTML, CSS e JavaScript
+- **Programação:** Python e lógica de programação
+- **Ferramentas:** Git e GitHub
+
+## 🎯 Objetivos profissionais
+
+Aprofundar meus conhecimentos em desenvolvimento backend, APIs e integração de sistemas, compreendendo como diferentes aplicações se comunicam e como soluções tecnológicas podem resolver problemas reais.
+
+## 📂 Projetos
+
+Neste perfil, compartilho meus estudos, exercícios e projetos práticos, registrando minha evolução no desenvolvimento de software.
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-lopes-4591a533a/)
